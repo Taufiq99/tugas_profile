@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Profil</string>
+    <string name="_24k">24k</string>
+    <string name="likes">Suka</string>
+    <string name="m_taufiq_rahmatullah">M. Taufiq Rahmatullah</string>
+    <string name="malang_jawa_timur">Malang, Jawa Timur</string>
+    <string name="_19_maret_1999">19 Maret 1999</string>
+    <string name="telepon">Telepon</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="mengikuti">Mengikuti</string>
+    <string name="_332">332</string>
+    <string name="pengikut">Pengikut</string>
+    <string name="_821">821</string>
+    <string name="postingan">Kiriman</string>
+    <string name="_8">8</string>
+    <string name="status">Status</string>
+    <string name="belum_menikah">Belum Menikah</string>
+    <string name="mtaufiqrahmatullah1_gmail_com">mtaufiqrahmatullah1@gmail.com</string>
+    <string name="_081217299494">081217299494</string>
+    <string name="email">Email</string>
+</resources>
